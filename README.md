@@ -34,7 +34,7 @@ We have a lot of commands to help you with your server!
 - Kill (kill a user)
 - Punch (punch a user)
 - Slap (slap a user)
-- Hello (say hello to someone)
+- Hello (say hi to someone)
 
  # Cool Links:
 
