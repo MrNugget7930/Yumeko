@@ -1,4 +1,4 @@
-# Yumeko Discord Bot
+# Yumeko
 
 A simple bot that allows you to watch animes ALMOST directly on Discord!
 
