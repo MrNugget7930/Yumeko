@@ -8,6 +8,7 @@ We have a lot of commands to help you with your server!
 
 - Watch Command (watch your favorite animes ALMOST directly on Discord)
 - Avatar Command (get someone's avatar)
+- Botinfo Command (check the bot's information)
 - Ping Command (check the bot's latency)
 
 # Moderation Commands:
