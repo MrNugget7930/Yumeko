@@ -1,32 +1,3 @@
-<style>
-.entity-header__image {
-	border-radius: 50% !important;
-  	animation: float 5s ease-in-out infinite;
-}
-  
-@keyframes float {
-  0% {
-    box-shadow: 0 5px 15px 0px rgba(0, 0, 0, 0.6);
-    -webkit-transform: translatey(0px);
-            transform: translatey(0px);
-  }
-  50% {
-    box-shadow: 0 25px 15px 0px rgba(0, 0, 0, 0.2);
-    -webkit-transform: translatey(-15px);
-            transform: translatey(-15px);
-  }
-  100% {
-    box-shadow: 0 5px 15px 0px rgba(0, 0, 0, 0.6);
-    -webkit-transform: translatey(0px);
-            transform: translatey(0px);
-  }
-}
-
-.entity-content__divider {
-	display: none;
-}
-</style>
-
 # Yumeko
 
 A simple bot that allows you to watch animes ALMOST directly on Discord!
@@ -54,16 +25,17 @@ We have a lot of commands to help you with your server!
 - Ascii (turn a normal text into an ascii text)
 - Waifu (gives you a random waifu pic)
 - Wallpapers (get wallpapers of your favorite animes)
+- Baka (gives you a gif of a charater saying BAKA)
 - Quote (gives you a random anime quote)
 - Yumeko (gives you a random gif of me, Yumeko)
-- Smile (gives you a random gif of a character smiling)
 - Random (gives you a random gif)
+- Smile (gives you a random gif of a character smiling)
 
 # Roleplay Commands:
 
 - Hug (hug a user)
-- Kiss (kiss a user)
 - Kill (kill a user)
+- Kiss (kiss a user)
 - Punch (punch a user)
 - Slap (slap a user)
 - Hello (say hi to someone)
