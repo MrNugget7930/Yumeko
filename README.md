@@ -1,3 +1,32 @@
+<style>
+.entity-header__image {
+	border-radius: 50% !important;
+  	animation: float 5s ease-in-out infinite;
+}
+  
+@keyframes float {
+  0% {
+    box-shadow: 0 5px 15px 0px rgba(0, 0, 0, 0.6);
+    -webkit-transform: translatey(0px);
+            transform: translatey(0px);
+  }
+  50% {
+    box-shadow: 0 25px 15px 0px rgba(0, 0, 0, 0.2);
+    -webkit-transform: translatey(-15px);
+            transform: translatey(-15px);
+  }
+  100% {
+    box-shadow: 0 5px 15px 0px rgba(0, 0, 0, 0.6);
+    -webkit-transform: translatey(0px);
+            transform: translatey(0px);
+  }
+}
+
+.entity-content__divider {
+	display: none;
+}
+</style>
+
 # Yumeko
 
 A simple bot that allows you to watch animes ALMOST directly on Discord!
