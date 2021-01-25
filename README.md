@@ -6,23 +6,24 @@ We have a lot of commands to help you with your server!
 
 # General Commands:
 
-- Watch Command (watch your favorite animes ALMOST directly on Discord)
-- Avatar Command (get someone's avatar)
-- Botinfo Command (check the bot's information)
-- Userinfo Command (get information about a user)
+- Watch (watch your favorite animes ALMOST directly on Discord)
+- Avatar (get someone's avatar)
+- Botinfo (check the bot's information)
+- Userinfo (get information about a user)
 - Serverinfo (get info about the server)
-- Ping Command (check the bot's latency)
+- Ping (check the bot's latency)
 
 # Moderation Commands:
 
-- Kick Command (kick a user)
-- Ban Command (ban a user)
-- Mute Command (mute a user)
-- Unmute Command (unmute a user)
+- Kick (kick a user)
+- Ban (ban a user)
+- Mute (mute a user)
+- Unmute (unmute a user)
 
 # Fun Commands:
 
 - Ascii (turn a normal text into an ascii text)
+- Waifu (gives you a random waifu pic)
 - Wallpapers (get wallpapers of your favorite animes)
 - Quote (gives you a random anime quote)
 - Yumeko (gives you a random gif of me, Yumeko)
