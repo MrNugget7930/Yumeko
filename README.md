@@ -19,6 +19,8 @@ We have a lot of commands to help you with your server!
 - Ban (ban a user)
 - Mute (mute a user)
 - Unmute (unmute a user)
+- WelcomeChannel (defines a channel for the bot to send a welcome message)
+- LeaveChannel (defines a channel for the bot to send a leave message)
 
 # Fun Commands:
 
