@@ -1,6 +1,6 @@
 # Yumeko
 
-A simple bot that allows you to watch animes ALMOST directly on Discord!
+A simple bot that allows you to watch and download animes ALMOST directly on Discord!
 
 We have a lot of commands to help you with your server!
 
