@@ -23,6 +23,7 @@ We have a lot of commands to help you with your server!
 # Fun Commands:
 
 - Ascii (turn a normal text into an ascii text)
+- RPS (play rps with the bot)
 - Waifu (gives you a random waifu pic)
 - Wallpapers (get wallpapers of your favorite animes)
 - Baka (gives you a gif of a charater saying BAKA)
