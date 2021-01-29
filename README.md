@@ -19,6 +19,7 @@ We have a lot of commands to help you with your server!
 - Ban (ban a user)
 - Mute (mute a user)
 - Unmute (unmute a user)
+- Setprefix (changes the server prefix)
 
 # Fun Commands:
 
