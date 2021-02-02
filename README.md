@@ -20,6 +20,8 @@ We have a lot of commands to help you with your server!
 - Mute (mute a user)
 - Unmute (unmute a user)
 - Setprefix (changes the server prefix)
+- Setwelcome (set a welcome channel)
+- Setleave (set a leave channel)
 
 # Fun Commands:
 
