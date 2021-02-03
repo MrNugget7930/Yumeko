@@ -28,6 +28,7 @@ We have a lot of commands to help you with your server!
 - Ascii (turn a normal text into an ascii text)
 - RPS (play rps with the bot)
 - Waifu (gives you a random waifu pic)
+- Neko (get a nice neko pic)
 - Wallpapers (get wallpapers of your favorite animes)
 - Baka (gives you a gif of a character saying BAKA)
 - Quote (gives you a random anime quote)
