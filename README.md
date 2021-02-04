@@ -6,7 +6,6 @@ We have a lot of commands to help you with your server!
 
 # General Commands:
 
-- Watch (watch your favorite animes ALMOST directly on Discord)
 - Avatar (get someone's avatar)
 - Botinfo (check the bot's information)
 - Userinfo (get information about a user)
