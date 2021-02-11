@@ -8,6 +8,7 @@ We have a lot of commands to help you with your server!
 
 - Avatar (get someone's avatar)
 - Botinfo (check the bot's information)
+- Afk (set an AFK status for when someone ping you)
 - Userinfo (get information about a user)
 - Serverinfo (get info about the server)
 - Ping (check the bot's latency)
@@ -16,9 +17,11 @@ We have a lot of commands to help you with your server!
 
 - Kick (kick a user)
 - Ban (ban a user)
+- Clear (delete a certain number of messages at once)
 - Setprefix (changes the server prefix)
 - Setwelcome (set a welcome channel)
 - Setleave (set a leave channel)
+- Antispam (turn on and off the antispam feature of the bot)
 
 # Fun Commands:
 
