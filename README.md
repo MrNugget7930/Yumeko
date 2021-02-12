@@ -1,6 +1,6 @@
 # Yumeko
 
-Yumeko is an anime themed bot that will help you with your server! It have General Commands, simple Moderation Commands, Fun Commands and Roleplay Commands too!
+Yumeko is an anime themed bot that will help you with your server! It have General Commands, Moderation Commands, Fun Commands and Roleplay Commands too!
 
 We have a lot of commands to help you with your server!
 
@@ -18,6 +18,8 @@ We have a lot of commands to help you with your server!
 - Kick (kick a user)
 - Ban (ban a user)
 - Clear (delete a certain number of messages at once)
+- Mute (mute a user)
+- Unmute (unmute a user)
 - Setprefix (changes the server prefix)
 - Setwelcome (set a welcome channel)
 - Setleave (set a leave channel)
