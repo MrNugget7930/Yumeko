@@ -54,6 +54,5 @@ She have a lot of commands to help you with your server!
 - [Invite](https://discord.com/oauth2/authorize?client_id=784132536631558184&scope=bot&permissions=8)
 - [Support Server](https://discord.gg/AtcYJyMJrp)
 - [Donate](https://donatebot.io/checkout/784033987198451733)
-- [Website](https://yumeko.mobirisesite.com)
 
 (Please expect bugs while using this bot as it is in a very early stage of development, you can report bugs in the support server)
