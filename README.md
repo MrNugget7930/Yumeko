@@ -2,7 +2,7 @@
 
 Yumeko is an anime themed bot that will help you with your server! It have General Commands, Moderation Commands, Fun Commands and Roleplay Commands too!
 
-We have a lot of commands to help you with your server!
+It have a lot of commands to help you with your server!
 
 # General Commands:
 
@@ -21,13 +21,15 @@ We have a lot of commands to help you with your server!
 - Mute (mute a user)
 - Unmute (unmute a user)
 - Setprefix (changes the server prefix)
+- Enable (enable a disabled command on that server)
+- Disable (disable a command on that server)
 - Setwelcome (set a welcome channel)
 - Setleave (set a leave channel)
-- Antispam (turn on and off the antispam feature of the bot)
 
 # Fun Commands:
 
 - Ascii (turn a normal text into an ascii text)
+- Meme (gives you a random meme)
 - RPS (play rps with the bot)
 - Waifu (gives you a random waifu pic)
 - Neko (gives you a nice neko pic)
