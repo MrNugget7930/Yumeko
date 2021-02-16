@@ -2,7 +2,7 @@
 
 Yumeko is an anime themed bot that will help you with your server! It have General Commands, Moderation Commands, Fun Commands and Roleplay Commands too!
 
-It have a lot of commands to help you with your server!
+She have a lot of commands to help you with your server!
 
 # General Commands:
 
