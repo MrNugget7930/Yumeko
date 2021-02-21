@@ -21,8 +21,8 @@ She have a lot of commands to help you with your server!
 - Mute (mute a user)
 - Unmute (unmute a user)
 - Setprefix (changes the server prefix)
-- Enable (enable a disabled command on that server)
-- Disable (disable a command on that server)
+- Enable (enable a disabled command on your server)
+- Disable (disable a command on your server)
 - Setwelcome (set a welcome channel)
 - Setleave (set a leave channel)
 
