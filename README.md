@@ -1,6 +1,6 @@
 # Yumeko
 
-Yumeko is an anime themed bot that will help you with your server! It have General Commands, Moderation Commands, Fun Commands and Roleplay Commands too!
+Yumeko is an anime themed bot that will let you download anime episodes!
 
 She have a lot of commands to help you with your server!
 
@@ -9,6 +9,7 @@ She have a lot of commands to help you with your server!
 - Avatar (get someone's avatar)
 - Botinfo (check the bot's information)
 - Afk (set an AFK status for when someone ping you)
+- Download (download anime episodes)
 - Userinfo (get information about a user)
 - Serverinfo (get info about the server)
 - Ping (check the bot's latency)
