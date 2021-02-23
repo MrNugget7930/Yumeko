@@ -1,6 +1,6 @@
 # Yumeko
 
-Yumeko is an anime themed bot that will let you download anime episodes!
+Yumeko is an anime themed bot that will let you download episodes from any anime!
 
 She have a lot of commands to help you with your server!
 
