@@ -30,6 +30,7 @@ She have a lot of commands to help you with your server!
 - Ascii (turn a normal text into an ascii text)
 - Meme (gives you a random meme)
 - RPS (play rps with the bot)
+- Enlarge (turn an emoji into an embed)
 - Waifu (gives you a random waifu pic)
 - Neko (gives you a nice neko pic)
 - Wallpapers (get wallpapers of your favorite animes)
