@@ -19,7 +19,6 @@ She have a lot of commands to help you with your server!
 
 - Kick (kick a user)
 - Ban (ban a user)
-- Clear (delete a certain number of messages at once)
 - Setprefix (changes the server prefix)
 - Enable (enable a disabled command on your server)
 - Disable (disable a command on your server)
