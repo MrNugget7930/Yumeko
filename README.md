@@ -47,7 +47,7 @@ She have a lot of commands to help you with your server!
 
  # Cool Links:
 
-- [Invite](https://discord.com/api/oauth2/authorize?client_id=784132536631558184&permissions=0&scope=bot)
+- [Invite](https://discord.com/oauth2/authorize?client_id=784132536631558184&scope=bot&permissions=355398)
 - [Support Server](https://discord.gg/AtcYJyMJrp)
 - [Donate](https://donatebot.io/checkout/784033987198451733)
 
