@@ -1,8 +1,8 @@
 # Yumeko
 
-Yumeko is an anime themed bot that will let you download episodes from any anime!
+Yumeko is an anime themed bot that will make your server much more fun! MODERATION | FUN | ROLEPLAY
 
-She have a lot of commands to help you with your server!
+It have Moderation Commands, Fun Commands and Roleplay Commands too!
 
 # General Commands:
 
