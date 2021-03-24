@@ -9,7 +9,6 @@ She have a lot of commands to help you with your server!
 - Avatar (get someone's avatar)
 - Botinfo (check the bot's information)
 - Afk (set an AFK status for when someone ping you)
-- Download (download anime episodes)
 - Anime (search information about an anime)
 - Userinfo (get information about a user)
 - Serverinfo (get info about the server)
