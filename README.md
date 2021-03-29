@@ -26,13 +26,11 @@ It have Moderation Commands, Fun Commands and Roleplay Commands too!
 
 # Fun Commands:
 
-- Chatbot (sets a channel for you to talk to Yumeko)
 - Meme (gives you a random meme)
 - RPS (play rps with the bot)
 - Waifu (gives you a random waifu pic)
 - Wallpapers (get wallpapers of your favorite animes)
 - Baka (gives you a gif of a character saying BAKA)
-- Quote (gives you a random anime quote)
 - Yumeko (gives you a random gif of me, Yumeko)
 - Smile (gives you a random gif of a character smiling)
 
