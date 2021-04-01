@@ -14,6 +14,15 @@ It have Moderation Commands, Fun Commands and Roleplay Commands too!
 - Serverinfo (get info about the server)
 - Ping (check the bot's latency)
 
+# Economy Commands:
+
+- Bal (check your ballance)
+- Blackjack (play blackjack with the bot)
+- Double (double or lose a certain amount of coins)
+- Give (give a certain amount of coins to someone)
+- Leaderboard (check the bot's leaderboard)
+- Work (use this command every 2 hours)
+
 # Moderation Commands:
 
 - Kick (kick a user)
