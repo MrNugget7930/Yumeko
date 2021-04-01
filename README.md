@@ -2,7 +2,7 @@
 
 MODERATION | FUN | ROLEPLAY - Yumeko is an anime themed bot that will make your server much more fun!
 
-It have Moderation Commands, Fun Commands and Roleplay Commands too!
+Yumeko is an anime themed bot that will help you with your server! It have Economy Commands, Moderation Commands, Fun Commands and Roleplay Commands too!
 
 # General Commands:
 
