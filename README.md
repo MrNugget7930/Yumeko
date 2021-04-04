@@ -21,7 +21,7 @@ Yumeko is an anime themed bot that will help you with your server! It have Econo
 - Double (double or lose a certain amount of coins)
 - Give (give a certain amount of coins to someone)
 - Leaderboard (check the bot's leaderboard)
-- Work (use this command every 1 hour to get some free coins)
+- Work (use this command every 10 minutes to get some free coins)
 
 # Moderation Commands:
 
